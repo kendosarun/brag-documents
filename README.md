@@ -1,6 +1,6 @@
 # brag-documents
 
-#### Hello my name is : Sarun Kaewwongsa u can call me "Kendo" this repository are My Brag Document.
+#### Hello my name is : Sarun Kaewwongsa u can call me "Kendo" this repository is My Brag Document.
 
 
 ## Year
