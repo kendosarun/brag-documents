@@ -1,6 +1,6 @@
 # brag-documents
 
-#### This Repository is my Brag document0
+#### This Repository is my Brag document.
 
 
 ## Year
