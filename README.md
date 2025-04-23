@@ -2,7 +2,7 @@
 
 #### This Repository is my Brag document.
 
-###### 🚀 Sarun Kaewwongsa | QA Engineer
+###### 🚀 Sarun Kaewwongsa | QA Engineer at ODDS
 
 ## 📚 Certificates
 
