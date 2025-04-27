@@ -1,8 +1,6 @@
 # brag-documents
 
-#### This Repository is my Brag document.
-
-###### 🚀 Sarun Kaewwongsa | QA Engineer at ODDS
+### 🚀 Sarun Kaewwongsa | QA Engineer at ODDS
 
 ## 📚 Certificates
 
