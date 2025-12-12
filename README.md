@@ -6,6 +6,7 @@
 
 - [Wardley Mapping for X](images/certificates/certificate_wardley_mapping.pdf)
 - [Playwright](images/certificates/certificate.pdf)
+- [Playwright in 2025](images/certificates/certificate_playwright_2025.pdf)
 - [Introduction to Testing Principles and Structured Testing Techniques](images/certificates/certificate_mux.pdf)
 
 
